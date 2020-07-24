@@ -1,8 +1,13 @@
-### Hi there 👋
+### Always (trying) learning
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mrisaro)
+[![Twitter](https://img.shields.io/badge/-Twitter-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://twitter.com/tuterisaro)
+
 
 <!--
 **mrisaro/mrisaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi everybody, my name is Matias Risaro I'm PhD physicist from Argentina. I've studied at the University of Buenos Aires, 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
