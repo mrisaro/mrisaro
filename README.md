@@ -1,7 +1,6 @@
 ### Always (trying) learning
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mrisaro)
-
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/tuterisaro)
 
 <!--
