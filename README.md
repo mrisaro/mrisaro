@@ -11,7 +11,7 @@
 
 **Se dice de mi**
 
-Hola a todos y todas mi nombre es Matías Risaro y les doy la bienvenida a este conjunto desorganizado de repositorios. Respecto a mi, les puedo contar que soy un fsico experimental que estudió en la Universidad de Buenos Aires (licenciatura y doctorado). A lo largo de todos estos años trabajé en espectrometría de masas, óptica láser y física molecular. 
+Hola a todos y todas mi nombre es Matías Risaro y les doy la bienvenida a este conjunto desorganizado de repositorios. Respecto a mi, les puedo contar que soy un físico experimental que estudió en la Universidad de Buenos Aires (licenciatura y doctorado). A lo largo de todos estos años trabajé en espectrometría de masas, óptica láser y física molecular. Ahora estoy más enfocado en la metrología de Tiempo y Frecuencia, trabajando con relojes ópticos, enlaces óptics y peines de frecuencia.
 
 Soy un apasionado de los gráficos y por eso digo que "vengo a graficarlo todo". Me encanta el análisis de datos y siempre estoy dispuesto a tratar de aprender nuevas herramientas. Algunas cosas que se pueden encontrar en el repositorio:
 
